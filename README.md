@@ -1,0 +1,2 @@
+# noble-pay
+make money
